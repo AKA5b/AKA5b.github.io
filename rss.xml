@@ -2,16 +2,18 @@
 <rss version="2.0">
     <channel>
         <title>颓垣断壁数彷徨</title>
-        <subtitle></subtitle>
+        <subtitle>无言再会镜中人</subtitle>
         <icon>https://likedi.vip/images/favicon.ico</icon>
         <link>https://likedi.vip</link>
         <author>
           <name>AKA5b</name>
         </author>
-        <description></description>
+        <description>此心安处是吾乡</description>
         <language>zh-CN</language>
         <pubDate>Sun, 28 Jan 2024 16:54:01 +0800</pubDate>
         <lastBuildDate>Sun, 28 Jan 2024 16:54:01 +0800</lastBuildDate>
+        <category term="le" />
+        <category term="dian" />
         <item>
             <guid isPermalink="true">https://likedi.vip/%E9%9A%8F%E6%83%B3/%E5%86%8D%E6%97%A0%E5%BF%83%E6%80%9D%E6%B1%89/</guid>
             <title>再无心思汉</title>
